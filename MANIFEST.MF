@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Deploy-Class: com.groupdocs.annotation.EmbedGroupDocsAnnotation
+Plugin-Name: Embed GroupDocs Document Annotation
+Plugin-Version: 1.0
+Author: GroupDocs Marketplace ( marketplace@groupdocs.com - http://www.groupdocs.com )
