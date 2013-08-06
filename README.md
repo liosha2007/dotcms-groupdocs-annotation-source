@@ -28,13 +28,13 @@ GroupDocs Annotation plugin for dotCMS (Source)
 	```
 	${GroupDocsAnnotation.RenderIframe('your_document_guid', 'document_quality', 'use_pdf', 'allow_download', 'frame_border_width', width_for_your_iframe, height_for_your_iframe)}
 	```
-		> * your&#95;document&#95;guid - How to get [Document ID (GUID)](http://groupdocs.com/docs/pages/viewpage.action?pageId=1409575)
-		> * document&#95;quality - number 10, 20, 30...100
-		> * use&#95;pdf - True or False
-		> * allow&#95;download - True or False
-		> * frame&#95;border&#95;width - 0 or 1
-		> * width&#95;for&#95;your&#95;iframe - iframe width in pixels
-		> * height&#95;for&#95;your&#95;iframe - iframe height in pixels
+	> * your&#95;document&#95;guid - How to get [Document ID (GUID)](http://groupdocs.com/docs/pages/viewpage.action?pageId=1409575)
+	> * document&#95;quality - number 10, 20, 30...100
+	> * use&#95;pdf - True or False
+	> * allow&#95;download - True or False
+	> * frame&#95;border&#95;width - 0 or 1
+	> * width&#95;for&#95;your&#95;iframe - iframe width in pixels
+	> * height&#95;for&#95;your&#95;iframe - iframe height in pixels
 	Or simple:
 	```
 	${GroupDocsAnnotation.RenderIframe('your_document_guid', width_for_your_iframe, height_for_your_iframe)}
